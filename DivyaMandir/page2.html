@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DivyaMandir – Temples Slider</title>
+
+<style>
+body{
+  margin:0;
+  background:#fff3e0;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+.slider-container{
+  position:relative;
+  width:95%;
+  max-width:1200px;
+}
+
+.enter-btn{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  padding:14px 28px;
+  font-size:18px;
+  border:none;
+  border-radius:8px;
+  cursor:pointer;
+  background:#fff;
+  box-shadow:0 6px 16px rgba(0,0,0,0.35);
+  z-index:10;
+}
+
+.slider-frame{
+  height:380px;
+  overflow:hidden;
+  border-radius:22px;
+  box-shadow:0 8px 22px rgba(0,0,0,0.25);
+  background:#fff;
+}
+
+.slider-track{
+  display:flex;
+  width:max-content;
+  animation: scroll 50s linear infinite;
+}
+
+.slider-track img{
+  width:320px;
+  height:380px;
+  object-fit:cover;
+}
+
+/* ✅ KEY FIX */
+@keyframes scroll{
+  0%{ transform: translateX(0); }
+  100%{ transform: translateX(-50%); }
+}
+</style>
+</head>
+
+<body>
+
+<div class="slider-container">
+
+<button class="enter-btn" onclick="goWebsite()">Enter Website</button>
+
+<div class="slider-frame">
+<div class="slider-track">
+
+<!-- ===== ORIGINAL 21 IMAGES ===== -->
+<img src="../images/annavaram.jpg">
+<img src="../images/badrinath.jpg">
+<img src="../images/chidambaram.jpg">
+<img src="../images/dwarkadhish.jpg">
+<img src="../images/guruvayur.jpg">
+<img src="../images/jagannath.jpg">
+<img src="../images/kanaka-durga.jpg">
+<img src="../images/kashi-vishwanath.jpg">
+<img src="../images/kedarnath.jpg">
+<img src="../images/mahakaleshwar.jpg">
+<img src="../images/meenakshi.jpg">
+<img src="../images/ramanathaswamy.jpg">
+<img src="../images/sabarimala.jpg">
+<img src="../images/simhachalam.jpg">
+<img src="../images/somnath.jpg">
+<img src="../images/sripuram.jpg">
+<img src="../images/srisailam.jpg">
+<img src="../images/tiruchendur.jpg">
+<img src="../images/tirupati-balaji.jpg">
+<img src="../images/udupi-krishna.jpg">
+<img src="../images/vaishno-devi.jpg">
+
+<!-- ===== DUPLICATE SAME 21 IMAGES (MANDATORY) ===== -->
+<img src="../images/annavaram.jpg">
+<img src="../images/badrinath.jpg">
+<img src="../images/chidambaram.jpg">
+<img src="../images/dwarkadhish.jpg">
+<img src="../images/guruvayur.jpg">
+<img src="../images/jagannath.jpg">
+<img src="../images/kanaka-durga.jpg">
+<img src="../images/kashi-vishwanath.jpg">
+<img src="../images/kedarnath.jpg">
+<img src="../images/mahakaleshwar.jpg">
+<img src="../images/meenakshi.jpg">
+<img src="../images/ramanathaswamy.jpg">
+<img src="../images/sabarimala.jpg">
+<img src="../images/simhachalam.jpg">
+<img src="../images/somnath.jpg">
+<img src="../images/sripuram.jpg">
+<img src="../images/srisailam.jpg">
+<img src="../images/tiruchendur.jpg">
+<img src="../images/tirupati-balaji.jpg">
+<img src="../images/udupi-krishna.jpg">
+<img src="../images/vaishno-devi.jpg">
+
+</div>
+</div>
+</div>
+
+<script>
+function goWebsite(){
+  window.location.href="index.html";
+}
+</script>
+
+</body>
+</html>
+
