@@ -1,0 +1,149 @@
+[
+  {
+   
+  "name": "tirupati",
+  "temple": "Tirupati Balaji",
+  "place": "Andhra Pradesh",
+  "timings": "4:00 AM – 11:00 PM",
+  "history": "Dedicated to Lord Venkateswara.",
+  "travel": "Tirupati railway & airport",
+  "festivals": "Brahmotsavam"
+ 
+     },
+  {
+    "name": "kanakadurgamma",
+    "temple": "Kanaka Durga Temple",
+    "place": "Vijayawada, Andhra Pradesh",
+    "timings": "4:00 AM – 10:00 PM",
+    "history": "Located on Indrakeeladri hill, dedicated to Goddess Kanaka Durga.",
+    "travel": "Nearest railway station & airport: Vijayawada",
+    "festivals": "Dussehra (Navratri)"
+  },
+  {
+    "name": "Lakshmi narasimha",
+    "temple": "Sri Lakshmi Narasimha Swamy Temple",
+    "place": "Mangalagiri, Andhra Pradesh",
+    "timings": "7:00 AM – 8:30 PM",
+    "history": "Ancient temple famous for Panakam prasadam.",
+    "travel": "Nearest railway station: Mangalagiri, Airport: Vijayawada",
+    "festivals": "Narasimha Jayanti"
+  },
+  {
+    "name": "srisailam",
+    "temple": "Srisailam Mallikarjuna",
+    "place": "Andhra Pradesh",
+    "timings": "6:00 AM – 10:00 PM",
+    "history": "One of the 12 Jyotirlingas of Lord Shiva.",
+    "travel": "Nearest railway station: Markapur",
+    "festivals": "Maha Shivaratri"
+  },
+  {
+    "name": "simhachalam",
+    "temple": "Simhachalam Temple",
+    "place": "Visakhapatnam, Andhra Pradesh",
+    "timings": "7:00 AM – 4:00 PM",
+    "history": "Dedicated to Varaha Lakshmi Narasimha Swamy.",
+    "travel": "Nearest railway station & airport: Visakhapatnam",
+    "festivals": "Chandanotsavam"
+  },
+  {
+    "name": "meenakshi",
+    "temple": "Meenakshi Amman Temple",
+    "place": "Madurai, Tamil Nadu",
+    "timings": "5:00 AM – 10:00 PM",
+    "history": "Famous for Dravidian architecture and gopurams.",
+    "travel": "Nearest airport & railway station: Madurai",
+    "festivals": "Chithirai Festival"
+  },
+  {
+    "name": "rameshwaram",
+    "temple": "Ramanathaswamy Temple",
+    "place": "Rameshwaram, Tamil Nadu",
+    "timings": "5:00 AM – 9:00 PM",
+    "history": "One of the Char Dham pilgrimage sites.",
+    "travel": "Nearest railway station: Rameshwaram",
+    "festivals": "Maha Shivaratri"
+  },
+  {
+    "name": "kashi",
+    "temple": "Kashi Vishwanath Temple",
+    "place": "Varanasi, Uttar Pradesh",
+    "timings": "3:00 AM – 11:00 PM",
+    "history": "One of the 12 Jyotirlingas of Lord Shiva.",
+    "travel": "Nearest airport & railway station: Varanasi",
+    "festivals": "Maha Shivaratri"
+  },
+  {
+    "name": "somnath",
+    "temple": "Somnath Temple",
+    "place": "Gujarat",
+    "timings": "6:00 AM – 9:00 PM",
+    "history": "First Jyotirlinga of Lord Shiva.",
+    "travel": "Nearest railway station: Veraval",
+    "festivals": "Maha Shivaratri"
+  },
+  {
+    "name": "dwarka",
+    "temple": "Dwarkadhish Temple",
+    "place": "Gujarat",
+    "timings": "6:30 AM – 9:30 PM",
+    "history": "One of the Char Dham pilgrimage sites dedicated to Lord Krishna.",
+    "travel": "Nearest railway station: Dwarka",
+    "festivals": "Janmashtami"
+  },
+  {
+    "name": "jagannath",
+    "temple": "Jagannath Temple",
+    "place": "Puri, Odisha",
+    "timings": "5:00 AM – 11:00 PM",
+    "history": "One of the Char Dham pilgrimage sites.",
+    "travel": "Nearest railway station: Puri",
+    "festivals": "Rath Yatra"
+  },
+  {
+    "name": "vaishnodevi",
+    "temple": "Vaishno Devi Temple",
+    "place": "Jammu & Kashmir",
+    "timings": "Open 24 hours",
+    "history": "Dedicated to Goddess Vaishno Devi.",
+    "travel": "Nearest base camp: Katra",
+    "festivals": "Navratri"
+  },
+  {
+    "name": "kedarnath",
+    "temple": "Kedarnath Temple",
+    "place": "Uttarakhand",
+    "timings": "6:00 AM – 8:00 PM",
+    "history": "One of the 12 Jyotirlingas and part of Char Dham.",
+    "travel": "Nearest town: Gaurikund",
+    "festivals": "Badri-Kedar Festival"
+  },
+  {
+    "name": "badrinath",
+    "temple": "Badrinath Temple",
+    "place": "Uttarakhand",
+    "timings": "6:00 AM – 9:00 PM",
+    "history": "One of the Char Dham pilgrimage sites.",
+    "travel": "Nearest town: Joshimath",
+    "festivals": "Mata Murti Ka Mela"
+  },
+  {
+    "name": "iskcon",
+    "temple": "ISKCON Temple",
+    "place": "Major Cities of India",
+    "timings": "4:30 AM – 9:00 PM",
+    "history": "International Society for Krishna Consciousness temples dedicated to Lord Krishna.",
+    "travel": "Well connected by road, rail, and air",
+    "festivals": "Janmashtami, Rath Yatra"
+  },
+  {
+  "name": "annavaram",
+  "temple": "Annavaram Satyanarayana Swamy Temple",
+  "place": "Annavaram, Andhra Pradesh",
+  "timings": "6:00 AM – 12:00 PM, 4:00 PM – 9:00 PM",
+  "history": "Dedicated to Lord Satyanarayana Swamy, the temple is located on Ratnagiri hill and is famous for Satyanarayana Vratham.",
+  "travel": "Nearest railway station: Annavaram. Nearest airport: Rajahmundry.",
+  "festivals": "Satyanarayana Vratham, Kalyanotsavam"
+}
+
+]

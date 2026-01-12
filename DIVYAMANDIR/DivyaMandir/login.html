@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DivyaMandir</title>
+
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: url("images/temple-bg.png") center/cover no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+    }
+
+    body::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.45);
+    }
+
+    .title-box {
+      position: relative;
+      text-align: center;
+      color: white;
+      padding: 25px 40px;
+      border-radius: 15px;
+      background: rgba(0, 0, 0, 0.4);
+    }
+
+    .title-box h1 {
+      margin: 0;
+      font-size: 48px;
+      letter-spacing: 2px;
+    }
+
+    .title-box p {
+      margin-top: 10px;
+      font-size: 18px;
+      color: #ffd27d;
+    }
+
+    .login-btn{
+      margin-top:20px;
+      padding:10px 22px;
+      font-size:16px;
+      background:#ff9800;
+      color:white;
+      border:none;
+      border-radius:8px;
+      cursor:pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="title-box">
+    <h1>🛕 DivyaMandir</h1>
+    <p>Main Temples of India</p>
+ <button class="login-btn" onclick="goPage2()">Login</button>
+  </div>
+
+<script>
+function goPage2(){
+  window.location.href = "page2.html";
+}
+</script>
+
+</body>
+</html>
+
